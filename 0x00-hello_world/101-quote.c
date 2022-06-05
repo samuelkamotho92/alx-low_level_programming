@@ -1,9 +1,8 @@
-nclude <stdio.h>
-
+#include <stdio.h>
 #include <unistd.h>
 
 /**
- *main  - Entrpoint
+ *main  - Entrypoint
  *
  * Return: Always 0 (success)
  */
