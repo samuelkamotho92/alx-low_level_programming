@@ -1,15 +1,12 @@
 #include <stdio.h>
 
 /**
+ * main -Entrypoint
  *
- *  * main - my entry point
+ * Return: Always 0 (success)
  *
- *   * Description: prints all sizes in c
- *
- *    * Return: 0
- *
- *     */
-
+ */
+            
 int main(void)
 
 {
