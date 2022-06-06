@@ -2,11 +2,10 @@
 /**
 *main - Entry  point
 *
-* Return - Always sucess (0)
+* Return: Always 0 (Success)
 */
 int main(void)
 {
-
 	char c;
 
 	for (c = 'a'; c <= 'z'; c++)
