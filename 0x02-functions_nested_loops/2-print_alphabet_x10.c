@@ -1,8 +1,6 @@
-#include  "main.h"
+#include "main.h"
 /**
- *main - -Print 10 times
- *
- *Return: Always (0) success
+ *print alphabet 10x
  */
 void print_alphabet_x10(void)
 {
