@@ -1,16 +1,19 @@
 #include "main.h"
 /**
- * main - putchar values
- *
- * Returnu: Always 0 (success)
+ * main - my entry point
+ * Description: program that prints _putchar
+ *  Return: 0
  */
 int main(void)
 {
-	char ch[8]= "_putchar";
-	int  m;
-
-	  for(m = 0; m < 8; m++)
-		   _putchar(ch);
-	        _putchar(\n);		
-  return(0);
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+        _putchar('t');  
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+	return (0);
 }
